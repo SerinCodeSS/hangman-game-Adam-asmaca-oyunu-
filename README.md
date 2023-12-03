@@ -1,1 +1,1 @@
-# hangman-game-Adam-asmaca-oyunu-
+# Hangman-game-Adam-asmaca-oyunu-
