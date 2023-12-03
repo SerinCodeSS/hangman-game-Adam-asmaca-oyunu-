@@ -11,3 +11,8 @@ The game runs in the browser, presenting the user with the task of guessing a sp
 - **index.html:** The main HTML file of the game.
 - **style.css:** The CSS file containing the styling and design of the game.
 - **script.js:** The JavaScript file that controls the functionality of the game.
+
+
+
+https://github.com/SerinCodeSS/hangman-game-Adam-asmaca-oyunu-/assets/143172950/2ae9db4d-8075-4879-a1e8-56652d688d1d
+
