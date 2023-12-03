@@ -18,5 +18,8 @@ The game runs in the browser, presenting the user with the task of guessing a sp
 
 
 
-https://github.com/SerinCodeSS/hangman-game-Adam-asmaca-oyunu-/assets/143172950/0b3b9446-69b2-4921-b882-100593589455
+
+
+
+https://github.com/SerinCodeSS/hangman-game-Adam-asmaca-oyunu-/assets/143172950/9f2261b9-547e-46f3-9b65-e7e7480e942a
 
